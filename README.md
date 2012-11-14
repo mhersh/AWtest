@@ -1,6 +1,7 @@
 AWtest
 ======
 <!--Trying to add CartoDB table integrated with Google Maps -->
+<!--I don't know how to make a new branch so my script will awkwardly be put into this readme for now -->
 
 <html>
 <head>
